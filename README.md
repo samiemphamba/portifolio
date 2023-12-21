@@ -56,6 +56,18 @@ Hello, I'm Samson Kasambala Mphamba, a passionate Full Stack Software Developer 
 - Tools: OpenMRS, ODK, RedCap, Restful APIs, Git, Agile Development
 - System Administration: UNIX (Ubuntu)
 
+## Experience
+
+- **Malawi Liverpool Welcome Trust (MLW) - Full Stack Software Developer**
+  - Actively involved in stakeholder engagement, system requirements gathering, and software architecting.
+
+- **Baobab Health Trust (BHT) - Software Development Officer**
+  - Played a key role in the development of health projects, including Electronic Integrated Disease Surveillance Response.
+
+- **Vertigo - Freelancer/Consultant**
+  - Contributed to the development of various mobile and web applications, including the Colpanion App used by the Colgate team.
+
+
 ## Contact
 
 - LinkedIn: [Samson Kasambala Mphamba on LinkedIn](https://www.linkedin.com/in/samson-kasambala-mphamba/)
